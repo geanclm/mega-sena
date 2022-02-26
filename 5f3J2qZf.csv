@@ -534,7 +534,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 ;;;;;;;;;;;;;;;;;;;;;;
 267;MarÃ­lia, SP;14/04/2001;1;8;45;46;55;58;0;46;4076;0;23142,59;260,19;;;0;0;0;SIM;SIM;ESTIMATIVA PRÃŠMIO (SENA) PRÃ“XIMO CONCURSO: R$5.000.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
-268;Campinas, SP;21/04/2001;5;6;10;21;33;47;0;111;10133;0;10348,29;112,93;;;0;0;0;SIM;SIM;Estimativa prï¿½ï¿½mio prÃ³ximo concurso (sena):R$7MILHÃ•ES.
+268;Campinas, SP;21/04/2001;5;6;10;21;33;47;0;111;10133;0;10348,29;112,93;;;0;0;0;SIM;SIM;Estimativa prÃªmio prÃ³ximo concurso (sena):R$7MILHÃ•ES.
 ;;;;;;;;;;;;;;;;;;;;;;
 269;DivinÃ³polis, MG;28/04/2001;17;18;19;25;49;52;0;110;8717;0;12115,7;152,31;;;0;0;0;SIM;SIM;Estimativa prÃªmio (Sena) prÃ³ximo concurso: R$25.000.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
@@ -810,7 +810,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 ;;;;;;;;;;;;;;;;;;;;;;
 405;Francisco BeltrÃ£o, PR;16/10/2002;24;29;34;47;57;60;0;67;4579;0;16988,17;247,63;;;0;0;0;SIM;SIM;Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$ 15.000.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
-406;Francisco BeltrÃ£o, PR;19/10/2002;2;12;32;38;47;48;0;78;6557;0;19463,48;230,66;;;0;0;0;SIM;SIM;Estimativa de prï¿½ï¿½mio (SENA) prÃ³ximo concurso: R$17.000.000,00.
+406;Francisco BeltrÃ£o, PR;19/10/2002;2;12;32;38;47;48;0;78;6557;0;19463,48;230,66;;;0;0;0;SIM;SIM;Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$17.000.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
 407;Blumenau, SC;23/10/2002;2;18;22;49;51;57;0;90;6383;0;16315,38;229,18;;;0;0;0;SIM;SIM;Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$19.000.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
@@ -966,7 +966,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 ;;;;;;;;;;;;;;;;;;;;;;
 483;Cianorte, PR;26/07/2003;16;18;23;35;44;59;0;90;6279;0;9761,25;139,38;;;0;0;0;SIM;SIM;Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$2.700.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
-484;Salvador, BA;30/07/2003;17;18;19;38;49;53;0;55;4015;0;13655,17;186,35;;;0;0;0;SIM;SIM;Estimativa de prÃªmio (SENA) prï¿½ï¿½ximo concurso: R$4.000.000,00 (QUATRO MILHÃ•ES DE REAIS!!!).
+484;Salvador, BA;30/07/2003;17;18;19;38;49;53;0;55;4015;0;13655,17;186,35;;;0;0;0;SIM;SIM;Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$4.000.000,00 (QUATRO MILHÃ•ES DE REAIS!!!).
 ;;;;;;;;;;;;;;;;;;;;;;
 485;Salvador, BA;02/08/2003;19;28;30;38;52;57;0;30;3203;0;35888,42;334,87;;;0;0;0;SIM;SIM;Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$5.500.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
@@ -978,7 +978,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 ;;;;;;;;;;;;;;;;;;;;;;
 489;Araraquara, SP;16/08/2003;17;28;33;36;53;59;0;67;5107;0;12406,82;162,16;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$11.000.000,00 (ONZE MILHÃ•ES DE REAIS!!!).
 ;;;;;;;;;;;;;;;;;;;;;;
-490;Coxim, MS;20/08/2003;5;11;23;29;54;58;1;148;8438;11070173,5;7925,35;138,49;;RJ;0;0;0;NAO;SIM;Estimativa de prÃªmio (SENA) prï¿½ï¿½ximo concurso: R$900.000,00.
+490;Coxim, MS;20/08/2003;5;11;23;29;54;58;1;148;8438;11070173,5;7925,35;138,49;;RJ;0;0;0;NAO;SIM;Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$900.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
 491;Coxim, MS;23/08/2003;1;9;15;22;43;55;1;81;4221;849344,26;8738,11;167,05;;RJ;0;0;0;NAO;SIM;Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$700.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
@@ -1288,7 +1288,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 ;;;;;;;;;;;;;;;;;;;;;;
 644;HORIZONTINA, RS;05/03/2005;14;27;29;31;34;57;0;81;4433;0;10667,36;194,17;;;0;0;0;SIM;SIM;ACUMULOU!! Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$13.000.000,00. Treze MilhÃµes de Reais.
 ;;;;;;;;;;;;;;;;;;;;;;
-645;CAMPO GRANDE, MS;09/03/2005;3;24;48;52;53;54;0;39;4345;0;27310,11;244,2;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$15.000.000,00 (QUINZE MILHÃ•ES DE REAIS).
+645;CAMPO GRANDE, MS;09/03/2005;3;24;48;52;53;54;0;39;4345;0;27310,11;244,2;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prÃªmio (SENA) prï¿½ï¿½ximo concurso: R$15.000.000,00 (QUINZE MILHÃ•ES DE REAIS).
 ;;;;;;;;;;;;;;;;;;;;;;
 646;CAMPO GRANDE, MS;12/03/2005;10;13;32;47;49;60;0;79;6173;0;16079,41;205;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prÃªmio (SENA) prÃ³ximo concurso: R$17.000.000,00 (DEZESSETE MILHÃ•ES DE REAIS).
 ;;;;;;;;;;;;;;;;;;;;;;
@@ -1404,7 +1404,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 ;;;;;;;;;;;;;;;;;;;;;;
 702;Afonso ClÃ¡udio, ES;28/09/2005;1;18;45;56;57;58;0;47;3663;0;22868,49;292,31;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prÃªmio (SENA) para o prÃ³ximo concurso, a ser realizado em 01/10/2005: R$20.000.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
-703;GUAÃ‡UÃ, ES;01/10/2005;2;11;24;27;30;45;0;123;7343;0;10767,16;179,68;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prÃªmio (sena) para o prÃ³ximo concurso, a ser realizado em 05/10/2005: R$22.000.000,00.
+703;GUAÃ‡UÃ, ES;01/10/2005;2;11;24;27;30;45;0;123;7343;0;10767,16;179,68;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prÃªmio (sena) para o prï¿½ï¿½ximo concurso, a ser realizado em 05/10/2005: R$22.000.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
 704;CATALÃƒO, GO;05/10/2005;2;4;18;27;34;50;0;56;5784;0;22659,95;218,56;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prÃªmio (sena) para o prÃ³ximo concurso, a ser realizado em 08/10/2005: R$32.000.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
@@ -1520,7 +1520,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 ;;;;;;;;;;;;;;;;;;;;;;
 760;LenÃ§Ã³is Paulista, SP;03/05/2006;12;17;44;45;46;60;0;80;5517;0;16005,08;231,2;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prÃªmio (sena) para o prÃ³ximo concurso, a ser realizado em 06/05/2006: R$27.000.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
-761;LenÃ§Ã³is Paulista, SP;06/05/2006;13;17;27;29;40;56;0;100;8936;0;17175,97;191,48;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prï¿½ï¿½mio (sena) para o prÃ³ximo concurso, a ser realizado em 10/05/2006: R$30.000.000,00.
+761;LenÃ§Ã³is Paulista, SP;06/05/2006;13;17;27;29;40;56;0;100;8936;0;17175,97;191,48;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prÃªmio (sena) para o prÃ³ximo concurso, a ser realizado em 10/05/2006: R$30.000.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
 762;VENÃ‚NCIO AIRES, RS;10/05/2006;9;12;21;37;39;54;0;143;10120;0;13668,11;192,4;;;0;0;0;SIM;SIM;ACUMULOU!!! Estimativa de prÃªmio (sena) para o prÃ³ximo concurso, a ser realizado em 13/05/2006: R$35.000.000,00.
 ;;;;;;;;;;;;;;;;;;;;;;
@@ -1880,7 +1880,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 ;;;;;;;;;;;;;;;;;;;;;;
 940;GUARAPARI, ES;02/02/2008;5;25;31;33;37;51;0;109;6936;0;11635,12;182,85;;;0;15000000;0;SIM;SIM;
 ;;;;;;;;;;;;;;;;;;;;;;
-941;POï¿½ï¿½OS DE CALDAS, MG;06/02/2008;10;11;15;27;53;60;0;37;3406;0;20206,51;219,51;;;0;16000000;0;SIM;SIM;
+941;POÃ‡OS DE CALDAS, MG;06/02/2008;10;11;15;27;53;60;0;37;3406;0;20206,51;219,51;;;0;16000000;0;SIM;SIM;
 ;;;;;;;;;;;;;;;;;;;;;;
 942;POÃ‡OS DE CALDAS, MG;09/02/2008;5;8;18;42;52;59;0;73;5310;0;20890,58;287,2;;;0;20000000;0;SIM;SIM;
 ;;;;;;;;;;;;;;;;;;;;;;
@@ -3096,7 +3096,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 ;;;;;;;;;;;;;;;;;;;;;;
 1520;ITABIRA, MG;10/08/2013;7;31;35;36;46;48;0;43;5886;0;53442,81;557,74;;;39252254;25000000;36506629,1;SIM;SIM;
 ;;;;;;;;;;;;;;;;;;;;;;
-1521;Cï¿½ï¿½CERO DANTAS, BA;14/08/2013;11;14;18;30;33;39;1;134;9266;25313774;19657,33;406,1;NOVA IGUAÃ‡U;RJ;44992102;2500000;37199808,87;NAO;SIM;
+1521;CÃCERO DANTAS, BA;14/08/2013;11;14;18;30;33;39;1;134;9266;25313774;19657,33;406,1;NOVA IGUAÃ‡U;RJ;44992102;2500000;37199808,87;NAO;SIM;
 ;;;;;;;;;;;;;;;;;;;;;;
 1522;CÃCERO DANTAS, BA;17/08/2013;5;8;23;32;33;56;0;93;6765;0;16446,2;322,98;;;26124950;6000000;37602308,11;SIM;SIM;
 ;;;;;;;;;;;;;;;;;;;;;;
@@ -4347,7 +4347,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 ;;;;;;;;;;;;;;;VÃRZEA ALEGRE;CE;;;;;;
 ;;;;;;;;;;;;;;;BRASÃLIA;DF;;;;;;
 ;;;;;;;;;;;;;;;BELA VISTA DE GOIÃS;GO;;;;;;
-;;;;;;;;;;;;;;;JATAÃ;GO;;;;;;
+;;;;;;;;;;;;;;;JATAï¿½ï¿½;GO;;;;;;
 ;;;;;;;;;;;;;;;PEDREIRAS;MA;;;;;;
 ;;;;;;;;;;;;;;;SÃƒO LUIS;MA;;;;;;
 ;;;;;;;;;;;;;;;ALFENAS;MG;;;;;;
@@ -4454,7 +4454,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 ;;;;;;;;;;;;;;;;;;;;;;
 2147;SÃƒO PAULO, SP;02/05/2019;17;19;37;41;42;49;0;366;28045;0;28739,81;535,81;;;182444745;140000000;29016307,9;SIM;SIM;
 ;;;;;;;;;;;;;;;;;;;;;;
-2148;SÃƒO PAULO, SP;04/05/2019;8;15;32;33;58;59;0;296;21684;0;37666,84;734,53;;;193382595;170000000;31950356,75;SIM;SIM;
+2148;Sï¿½ï¿½O PAULO, SP;04/05/2019;8;15;32;33;58;59;0;296;21684;0;37666,84;734,53;;;193382595;170000000;31950356,75;SIM;SIM;
 ;;;;;;;;;;;;;;;;;;;;;;
 2149;SÃƒO PAULO, SP;08/05/2019;21;23;37;44;46;48;0;496;32880;0;35200,2;758,57;;;302826055;275000000;36544909,01;SIM;SIM;
 ;;;;;;;;;;;;;;;;;;;;;;
@@ -5085,3 +5085,7 @@ Concurso;Local;Data do Sorteio;Coluna 1;Coluna 2;Coluna 3;Coluna 4;Coluna 5;Colu
 2454;SÃƒO PAULO, SP;16/02/2022;9;14;22;24;44;47;0;49;4523;0;46328,88;717;;;39373780,5;31000000;8686048,95;SIM;SIM;
 ;;;;;;;;;;;;;;;;;;;;;;
 2455;SÃƒO PAULO, SP;19/02/2022;21;38;50;53;56;59;0;44;3811;0;76582,32;1263,11;;;58444069,5;37000000;9572791,6;SIM;SIM;
+;;;;;;;;;;;;;;;;;;;;;;
+2456;SÃƒO PAULO, SP;22/02/2022;28;34;40;41;52;55;0;31;2581;0;81253,19;1394,17;;;43687921,5;40000000;10235646,61;SIM;SIM;
+;;;;;;;;;;;;;;;;;;;;;;
+2457;SÃƒO PAULO, SP;24/02/2022;10;19;46;47;49;50;0;51;4414;0;62932,87;1038,76;;;55668172,5;50000000;11080271,98;SIM;SIM;
